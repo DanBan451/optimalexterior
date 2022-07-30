@@ -111,8 +111,8 @@ export default class Reviews extends Component {
     return (
       <div className='card'>
         <img src={require('../images/5-stars.png')} alt=""/>
-        <span>{reviews.at(index).description}</span>   
-        <span>{reviews.at(index).customer}</span>     
+        {/* <span>{reviews.at(index).description}</span>   
+        <span>{reviews.at(index).customer}</span>      */}
       </div>
     );
   }
