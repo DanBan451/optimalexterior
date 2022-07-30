@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/optimalexterior/static/css/main.706b6326.css",
-    "main.js": "/optimalexterior/static/js/main.57fe4e28.js",
+    "main.js": "/optimalexterior/static/js/main.6f4ed26d.js",
     "static/js/787.ccfd6f46.chunk.js": "/optimalexterior/static/js/787.ccfd6f46.chunk.js",
     "static/media/mansionImage.jpg": "/optimalexterior/static/media/mansionImage.a76a1cdac1fee129691f.jpg",
     "static/media/service-gutter.png": "/optimalexterior/static/media/service-gutter.069bb3e5548795b04b52.png",
@@ -28,11 +28,11 @@
     "static/media/face-icon-white.svg": "/optimalexterior/static/media/face-icon-white.2a9539fb7fe2db084e9743157ce117de.svg",
     "static/media/RoofIcon-1.svg": "/optimalexterior/static/media/RoofIcon-1.caa63e41cba7f82276243cbd3eabb9c9.svg",
     "main.706b6326.css.map": "/optimalexterior/static/css/main.706b6326.css.map",
-    "main.57fe4e28.js.map": "/optimalexterior/static/js/main.57fe4e28.js.map",
+    "main.6f4ed26d.js.map": "/optimalexterior/static/js/main.6f4ed26d.js.map",
     "787.ccfd6f46.chunk.js.map": "/optimalexterior/static/js/787.ccfd6f46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.706b6326.css",
-    "static/js/main.57fe4e28.js"
+    "static/js/main.6f4ed26d.js"
   ]
 }
