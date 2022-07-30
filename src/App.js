@@ -13,7 +13,9 @@ import {HashRouter as Router} from 'react-router-dom';
 
 function App() {
   return (
-    <div>hallo</div>
+    <Router>
+      <div>hallo</div>
+    </Router>
     // <Router> 
     //   {/* <Routes> */}
     //     <Route path="/" element={<Main />} />        
