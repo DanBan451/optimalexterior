@@ -13,7 +13,7 @@ import {HashRouter as Router} from 'react-router-dom';
 
 function App() {
   return (
-    <div>nothing</div>
+    <div>hallo</div>
     // <Router> 
     //   {/* <Routes> */}
     //     <Route path="/" element={<Main />} />        
