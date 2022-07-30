@@ -13,7 +13,7 @@ import Contact from './pages/contact';
 
 function App() {
   return (
-    <BrowserRouter> 
+    <BrowserRouter basename={process.env.PUBLIC_URL}> 
       <Routes>
         <Route path="/" element={<Main />} />        
         <Route path="/services" element={<Services/>} />        
