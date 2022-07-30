@@ -1,7 +1,7 @@
 {
-  "homepage": "https://DanBan451.github.io/",
   "name": "optimal-exterior",
   "version": "0.1.0",
+  "homepage": "https://DanBan451.github.io/optimalexterior",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
