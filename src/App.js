@@ -13,15 +13,15 @@ import {HashRouter as Router} from 'react-router-dom';
 
 function App() {
   return (
-    <
-    <Router> 
-      {/* <Routes> */}
-        <Route path="/" element={<Main />} />        
-        <Route path="/services" element={<Services/>} />        
-        <Route path="/about" element={<About />} />        
-        <Route path="/contact" element={<Contact />} />                        
-      {/* </Routes>     */}
-    </Router>        
+    <div>nothing</div>
+    // <Router> 
+    //   {/* <Routes> */}
+    //     <Route path="/" element={<Main />} />        
+    //     <Route path="/services" element={<Services/>} />        
+    //     <Route path="/about" element={<About />} />        
+    //     <Route path="/contact" element={<Contact />} />                        
+    //   {/* </Routes>     */}
+    // </Router>        
   );
 }
 
